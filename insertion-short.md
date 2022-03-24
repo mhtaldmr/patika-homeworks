@@ -1,5 +1,5 @@
 
-# 1. Sorting the array
+#insortion short the array
 ---
 
 [22,27,16,2,18,6]
