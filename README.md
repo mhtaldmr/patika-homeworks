@@ -1,2 +1,3 @@
-# veri-yapıları-ve-algoritmalar-patika
- insertion sort, merge sort, binary search tree
+# Patika.dev C# Ödevleri 
+---
+www.patika.dev
