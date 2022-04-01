@@ -6,6 +6,7 @@ namespace Diziler
     {
         static void Main(string[] args)
         {
+            ///////////dizler////////////
             string[] isimler = new string[5];
 
             isimler[0] = "Ahmet";
@@ -59,6 +60,8 @@ namespace Diziler
             }
 
             Console.WriteLine(toplam);
+            
+            ///////////Array methodları////////////
 
             int[] sayidizisi = { 23, 12, 4, 86, 72, 3, 11, 17 };
             foreach (var sayi in sayidizisi)
