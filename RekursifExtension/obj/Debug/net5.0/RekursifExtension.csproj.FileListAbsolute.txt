@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\bin\Debug\net5.0\RekursifExtension.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\bin\Debug\net5.0\RekursifExtension.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\bin\Debug\net5.0\RekursifExtension.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\bin\Debug\net5.0\RekursifExtension.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\bin\Debug\net5.0\RekursifExtension.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\bin\Debug\net5.0\RekursifExtension.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\refint\RekursifExtension.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\RekursifExtension.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\RekursifExtension\obj\Debug\net5.0\ref\RekursifExtension.dll
