@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\bin\Debug\net5.0\Donguler.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\bin\Debug\net5.0\Donguler.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\bin\Debug\net5.0\Donguler.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\bin\Debug\net5.0\Donguler.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\refint\Donguler.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\Donguler.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Donguler\obj\Debug\net5.0\ref\Donguler.dll
