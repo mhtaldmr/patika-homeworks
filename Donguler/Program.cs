@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace Donguler
@@ -38,6 +38,31 @@ namespace Donguler
 
             Console.WriteLine(n);
 
+
+            while (true)
+            {
+                Console.WriteLine("Bir şey yazın");
+                string yazi = Convert.ToString(Console.ReadLine());
+
+                if (yazi == "q")
+                {
+                    break;
+                }
+            }
+
+            int sayac = 0;
+
+            while (sayac < 10)
+            {
+                Console.WriteLine(new String('#', sayac));
+                sayac++;
+            }
+
+            do
+            {
+                Console.WriteLine(new String('*', sayac));
+                sayac++;
+            } while (sayac < 10);
         }
     }
 }
