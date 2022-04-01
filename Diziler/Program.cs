@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Diziler
 {
@@ -49,16 +49,38 @@ namespace Diziler
 
             Console.WriteLine("Lütfen bir sayı giriniz:");
             var diziUzunluğu = Convert.ToInt32(Console.ReadLine());
-            var sayiDizisi = new int[diziUzunluğu];
+            var sayiDizisi2 = new int[diziUzunluğu];
             var toplam = 0;
-            for (int i = 0; i < sayiDizisi.Length; i++)
+            for (int i = 0; i < sayiDizisi2.Length; i++)
             {
                 Console.WriteLine("Lütfen {0}. sayıyı giriniz:", i + 1);
-                sayiDizisi[i] = Convert.ToInt32(Console.ReadLine());
-                toplam += sayiDizisi[i];
+                sayiDizisi2[i] = Convert.ToInt32(Console.ReadLine());
+                toplam += sayiDizisi2[i];
             }
 
             Console.WriteLine(toplam);
+
+            int[] sayidizisi = { 23, 12, 4, 86, 72, 3, 11, 17 };
+            foreach (var sayi in sayidizisi)
+                Console.WriteLine(sayi);
+
+            Array.Sort(sayidizisi);
+            foreach (var sayi in sayidizisi)
+                Console.WriteLine(sayi);
+
+            Array.Clear(sayidizisi, 2, 2);
+            foreach (var sayi in sayidizisi)
+                Console.WriteLine(sayi);
+
+            Array.Reverse(sayidizisi);
+            foreach (var sayi in sayidizisi)
+                Console.WriteLine(sayi);
+            Console.WriteLine(Array.IndexOf(sayidizisi, 23));
+
+            Array.Resize<int>(ref sayidizisi, 9);
+            sayidizisi[8] = 99;
+            foreach (var sayi in sayidizisi)
+                Console.WriteLine(sayi);
 
         }
     }
