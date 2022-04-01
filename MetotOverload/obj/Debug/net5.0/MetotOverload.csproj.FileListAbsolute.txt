@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\bin\Debug\net5.0\MetotOverload.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\bin\Debug\net5.0\MetotOverload.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\bin\Debug\net5.0\MetotOverload.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\bin\Debug\net5.0\MetotOverload.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\bin\Debug\net5.0\MetotOverload.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\bin\Debug\net5.0\MetotOverload.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\refint\MetotOverload.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\MetotOverload.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\MetotOverload\obj\Debug\net5.0\ref\MetotOverload.dll
