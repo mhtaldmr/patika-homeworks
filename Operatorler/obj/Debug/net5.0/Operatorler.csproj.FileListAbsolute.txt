@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\bin\Debug\net5.0\Operatorler.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\bin\Debug\net5.0\Operatorler.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\refint\Operatorler.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
