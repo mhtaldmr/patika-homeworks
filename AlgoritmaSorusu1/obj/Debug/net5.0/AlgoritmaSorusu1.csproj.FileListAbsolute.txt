@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\bin\Debug\net5.0\AlgoritmaSorusu1.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\bin\Debug\net5.0\AlgoritmaSorusu1.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\bin\Debug\net5.0\AlgoritmaSorusu1.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\bin\Debug\net5.0\AlgoritmaSorusu1.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\bin\Debug\net5.0\AlgoritmaSorusu1.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\bin\Debug\net5.0\AlgoritmaSorusu1.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\refint\AlgoritmaSorusu1.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\AlgoritmaSorusu1.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\AlgoritmaSorusu1\obj\Debug\net5.0\ref\AlgoritmaSorusu1.dll
