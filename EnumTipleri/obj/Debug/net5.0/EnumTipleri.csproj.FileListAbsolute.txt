@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\bin\Debug\net5.0\EnumTipleri.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\bin\Debug\net5.0\EnumTipleri.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\bin\Debug\net5.0\EnumTipleri.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\bin\Debug\net5.0\EnumTipleri.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\bin\Debug\net5.0\EnumTipleri.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\bin\Debug\net5.0\EnumTipleri.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\refint\EnumTipleri.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\EnumTipleri.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EnumTipleri\obj\Debug\net5.0\ref\EnumTipleri.dll
