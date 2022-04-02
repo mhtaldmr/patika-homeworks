@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KoleksiyonSoru3/1.0.0": {
+        "runtime": {
+          "KoleksiyonSoru3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KoleksiyonSoru3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

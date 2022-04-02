@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\bin\Debug\net5.0\KoleksiyonSoru3.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\bin\Debug\net5.0\KoleksiyonSoru3.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\bin\Debug\net5.0\KoleksiyonSoru3.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\bin\Debug\net5.0\KoleksiyonSoru3.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\bin\Debug\net5.0\KoleksiyonSoru3.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\bin\Debug\net5.0\KoleksiyonSoru3.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\refint\KoleksiyonSoru3.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\KoleksiyonSoru3.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\KoleksiyonSoru3\obj\Debug\net5.0\ref\KoleksiyonSoru3.dll
