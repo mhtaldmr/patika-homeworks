@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections;
-using System.Text.RegularExpressions;
+using System.Linq;
 
 namespace KoleksiyonSoru1
 {
@@ -65,14 +65,9 @@ namespace KoleksiyonSoru1
             asalOlmayanSayilar.Sort();
 
             Console.WriteLine("Asal Sayılar list uzunlugu: ");
-            Console.WriteLine(asalSayilar.length);
+            Console.WriteLine(asalSayilar.Count);
             Console.WriteLine("Asal Sayılar list uzunlugu: ");
-            Console.WriteLine(asalOlmayanSayilar.length);
-
-            Console.WriteLine("Asal Sayılar Ortalaması:");
-            Console.WriteLine(asalSayilar.avarage);
-            Console.WriteLine("Asal Olmayan Sayılar Ortalaması:");
-            Console.WriteLine(asalOlmayanSayilar.avarage);
+            Console.WriteLine(asalOlmayanSayilar.Count);
 
             Console.WriteLine("Asal Sayılar: ");
             foreach (var item in asalSayilar)
@@ -86,10 +81,6 @@ namespace KoleksiyonSoru1
             {
                 Console.Write(item + " ");
             }
-
-
-
-
 
         }
     }
