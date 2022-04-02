@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\bin\Debug\net5.0\EncapsulationProperty.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\bin\Debug\net5.0\EncapsulationProperty.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\bin\Debug\net5.0\EncapsulationProperty.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\bin\Debug\net5.0\EncapsulationProperty.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\bin\Debug\net5.0\EncapsulationProperty.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\bin\Debug\net5.0\EncapsulationProperty.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\refint\EncapsulationProperty.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\EncapsulationProperty.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\EncapsulationProperty\obj\Debug\net5.0\ref\EncapsulationProperty.dll
