@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\bin\Debug\net5.0\StaticSınıf.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\bin\Debug\net5.0\StaticSınıf.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\bin\Debug\net5.0\StaticSınıf.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\bin\Debug\net5.0\StaticSınıf.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\bin\Debug\net5.0\StaticSınıf.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\bin\Debug\net5.0\StaticSınıf.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\refint\StaticSınıf.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\StaticSınıf.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\StaticSınıf\obj\Debug\net5.0\ref\StaticSınıf.dll
