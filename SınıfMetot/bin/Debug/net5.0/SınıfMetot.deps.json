@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SınıfMetot/1.0.0": {
+        "runtime": {
+          "SınıfMetot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SınıfMetot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

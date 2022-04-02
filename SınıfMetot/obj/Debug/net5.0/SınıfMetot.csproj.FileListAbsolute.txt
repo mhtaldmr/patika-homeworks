@@ -1,0 +1,16 @@
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\bin\Debug\net5.0\SınıfMetot.exe
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\bin\Debug\net5.0\SınıfMetot.deps.json
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\bin\Debug\net5.0\SınıfMetot.runtimeconfig.json
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\bin\Debug\net5.0\SınıfMetot.runtimeconfig.dev.json
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\bin\Debug\net5.0\SınıfMetot.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\bin\Debug\net5.0\SınıfMetot.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.csproj.AssemblyReference.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.AssemblyInfoInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.AssemblyInfo.cs
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.csproj.CoreCompileInputs.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\refint\SınıfMetot.dll
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.pdb
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\SınıfMetot.genruntimeconfig.cache
+C:\Users\mhtal\OneDrive\Desktop\patika\SınıfMetot\obj\Debug\net5.0\ref\SınıfMetot.dll
