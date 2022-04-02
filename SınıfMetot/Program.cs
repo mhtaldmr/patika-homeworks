@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace SınıfMetot
 {
@@ -15,6 +15,8 @@ namespace SınıfMetot
 
             calisan.CalisanBilgileri();
 
+            var calisan2 = new Calisan("Ayşe", "Kara", 2000, "IT");
+            calisan2.CalisanBilgileri();
 
         }
     }
@@ -27,12 +29,25 @@ namespace SınıfMetot
         public int No;
         public string Departman;
 
+
         public void CalisanBilgileri()
         {
             Console.WriteLine("Adı: {0}", Ad);
             Console.WriteLine("Soyadı: {0}", Soyisim);
             Console.WriteLine("No: {0}", No);
             Console.WriteLine("Departman: {0}", Departman);
+        }
+
+        public Calisan()
+        {
+        }
+
+        public Calisan(string ad, string soyisim, int no, string departman)
+        {
+            Ad = ad;
+            Soyisim = soyisim;
+            No = no;
+            Departman = departman;
         }
     }
 }
